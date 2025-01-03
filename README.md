@@ -20,6 +20,10 @@ This project facilitated the seamless migration of critical business data from o
 -![Data Migration jpeg](https://github.com/user-attachments/assets/8a66a5fe-fd35-4dc5-abbb-8402bd24f836)
 
 
+![Data Migration jpeg 2](https://github.com/user-attachments/assets/6aaa1dcd-4291-48e6-a077-fff7f71d229f)
+
+
+
 ### **Stakeholder Collaboration**
 - Worked closely with stakeholders to identify key performance indicators (KPIs) and establish metrics for project success.
 - **Metric**: Conducted weekly stakeholder meetings with documented action items and updates. Maintained a stakeholder satisfaction score of 85%, measured through feedback surveys.
